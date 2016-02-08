@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FlavorDI</string>
+    <string name="repo_search_hint">Enter a repository name for search</string>
+    <string name="search">Search</string>
+    <string name="unknown_error">Unknown error :(</string>
+    <string name="error_title">Error</string>
+</resources>
